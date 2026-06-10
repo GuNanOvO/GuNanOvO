@@ -47,9 +47,8 @@ Build things that solve problems. Stay clear-headed, stay genuine.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/gunanovo/gunanovo/main/output-3d-contrib/night.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gunanovo/gunanovo/main/output-3d-contrib/day.svg" />
-    <img alt="github profile contributions chart" src="https://raw.githubusercontent.com/gunanovo/gunanovo/main/output-3d-contrib/day.svg" />
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/gunanovo/gunanovo/main/output-3d-contrib/dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gunanovo/gunanovo/main/output-3d-contrib/light.svg" />
+    <img alt="github profile contributions chart" src="https://raw.githubusercontent.com/gunanovo/gunanovo/main/output-3d-contrib/light.svg" />
   </picture>
 </p>
->>>>>>> c5ec7f2 (chore: init github profile)

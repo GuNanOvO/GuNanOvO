@@ -19,7 +19,7 @@
     {
         "type": "normal",
         "fileName": "dark.svg",
-        "backgroundColor": "#1a1f1d",
+        "backgroundColor": "#15181D",
         "foregroundColor": "#d8e8d8",
         "strongColor": "#b8d8a0",
         "weakColor": "#6a7a6a",
