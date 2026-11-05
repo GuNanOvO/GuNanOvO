@@ -8,7 +8,7 @@ I enjoy turning ideas into little things that help people.
 
 ### 📦 Things I've shipped
 
-- [![openwrt-tailscale](https://img.shields.io/badge/openwrt--tailscale-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/gunanovo/openwrt-tailscale) ![Stars](https://img.shields.io/github/stars/gunanovo/openwrt-tailscale?style=flat-square\&color=EAC54F) | Runs Tailscale on storage-constrained OpenWrt devices, multi-arch auto-builds, \~360 ★. Unexpectedly solved real problems for real people.
+- [![openwrt-tailscale](https://img.shields.io/badge/openwrt--tailscale-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/gunanovo/openwrt-tailscale) ![Stars](https://img.shields.io/github/stars/gunanovo/openwrt-tailscale?style=flat-square\&color=EAC54F)  Runs Tailscale on storage-constrained OpenWrt devices, multi-arch auto-builds, \~490 ★. Unexpectedly solved real problems for real people.
 - Working on the next one.
 
 ### 🌠 About me
@@ -39,7 +39,7 @@ Still on the road. There's always more to learn.
 
 ### 🌈 I love Linux
 
-Fedora + KDE · Wayland
+Debian + KDE · Wayland
 
 ***
 
